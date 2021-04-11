@@ -1,0 +1,34 @@
+.home_wrapper {
+  height: 100vh;
+  width: 100%;
+  /* background-image: url(../images/background/backgroud_1.jpg);*/
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
+    url(../images/background/backgroud_1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.home_wrapper > h1 {
+  padding-top: 90px;
+  margin: 0px;
+  font-size: 80px;
+  font-family: "Love Ya Like A Sister", cursive;
+}
+
+.home_wrapper > h2 {
+  margin: 0px;
+  font-size: 30px;
+  font-family: "McLaren", cursive;
+}
+
+.home_wrapper > p {
+  font-size: 15px;
+  font-family: "Love Ya Like A Sister", cursive;
+}
