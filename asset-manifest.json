@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kmtrans/static/css/main.a7925f52.chunk.css",
+    "main.js": "/kmtrans/static/js/main.dd7d71f5.chunk.js",
+    "main.js.map": "/kmtrans/static/js/main.dd7d71f5.chunk.js.map",
+    "runtime-main.js": "/kmtrans/static/js/runtime-main.3193fa2e.js",
+    "runtime-main.js.map": "/kmtrans/static/js/runtime-main.3193fa2e.js.map",
+    "static/js/2.e768aad0.chunk.js": "/kmtrans/static/js/2.e768aad0.chunk.js",
+    "static/js/2.e768aad0.chunk.js.map": "/kmtrans/static/js/2.e768aad0.chunk.js.map",
+    "index.html": "/kmtrans/index.html",
+    "static/css/main.a7925f52.chunk.css.map": "/kmtrans/static/css/main.a7925f52.chunk.css.map",
+    "static/js/2.e768aad0.chunk.js.LICENSE.txt": "/kmtrans/static/js/2.e768aad0.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/kmtrans/static/media/backgroud_1.03ce991f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3193fa2e.js",
+    "static/js/2.e768aad0.chunk.js",
+    "static/css/main.a7925f52.chunk.css",
+    "static/js/main.dd7d71f5.chunk.js"
+  ]
+}
