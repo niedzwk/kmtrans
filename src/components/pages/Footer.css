@@ -1,0 +1,15 @@
+.footer_section {
+  padding: 10px 10px 10px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer_section > p {
+  font-family: "Love Ya Like A Sister", cursive;
+  font-size: 20px;
+}
+
+.footer_section > p:nth-child(2) {
+  font-family: "McLaren", cursive;
+}
